@@ -1,0 +1,10 @@
+[package]
+name = "mqttsn"
+version = "0.1.0-alpha.1"
+authors = ["Alessandro Gasbarroni <alex.gasbarroni@gmail.com>"]
+edition = "2018"
+license = "MIT OR Apache-2.0"
+description = "A Rust implementation of MQTT-SN protocol"
+keywords = ["mqtt", "mqtt-sn", "mqttsn", "no-std"]
+
+[dependencies]
